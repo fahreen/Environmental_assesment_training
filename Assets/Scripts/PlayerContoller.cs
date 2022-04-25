@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+//Fahreen Bushra: Implement player movement and interaction with game world objects in 3D office space
+
 public class PlayerContoller : MonoBehaviour
 {
     public CharacterController playerCharContoller;
