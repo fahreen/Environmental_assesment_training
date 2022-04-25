@@ -4,6 +4,8 @@ using UnityEngine;
 using XNode;
 using UnityEngine.UI;
 
+//Fahreen Bushra: animate + control talking vs not talking state.  Animation has not been implemented correctly yet
+
 public class EmployeeController2 : MonoBehaviour
 {
     public Employee data;
