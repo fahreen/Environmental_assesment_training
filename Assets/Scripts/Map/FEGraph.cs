@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using CodeMonkey.Utils;
 public class FEGraph : MonoBehaviour
 {
+//Fahreen Bushra: show graph to display fuel effeciency per employee.  Must be updated, at this time graph is static
 
     private RectTransform graphContainer;
     [SerializeField] private Sprite circleSprite;
