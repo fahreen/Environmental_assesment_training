@@ -4,6 +4,9 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using UnityEngine.UI;
+
+//Fahreen Bushra: use tilemap and it's text file to instantiate the game.  This includes populating map and the 3d office space, and their dialogue,
+//Implement path finding for the map, and carpooling
 public class MapManager : MonoBehaviour
 {
     // set in inspector
