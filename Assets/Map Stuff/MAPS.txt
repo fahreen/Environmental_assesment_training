@@ -1,0 +1,8 @@
+MAP1
+Amanda/20.43,0.054,23.549/-3,18,0/-6,24,0/ 11 Overlea drive/Honda Accord Hybrid Drive/57/47
+Christine/19.2,0,14.784/-27,19,0/-33,23,0/82 Ann st./Honda Accord Hybrid Drive/72/48
+Malcolm/18.42,0,25.5/4,10,0/5,14,0/92 Bertrand Avenue/Honda Accord Hybrid Drive/62/49
+Omar/22.24,0,14.52/-21,9,0/-27,13,0/34 Dawes Rd./Honda Accord Hybrid Drive/57/50
+Regina/20.8,0,25.7/-25,-3,0/-31,1,0/67 Dolphin Drive/Honda Accord Hybrid Drive/57/51
+Shae/18.46,0,19.35/34,18,0/32,24,0/99 King Street West/Honda Accord Hybrid Drive/57/52
+Brian/22.34,0,18.48/-14,-7,0/-17,-8,0/22 avalanche Avenue/Honda Accord Hybrid Drive/57/53

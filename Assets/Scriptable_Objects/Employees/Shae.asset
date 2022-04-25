@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91d9363d653555040a1788929642c683, type: 3}
+  m_Name: Shae
+  m_EditorClassIdentifier: 
+  employeeName: Shae Lynn
+  startPos: {x: 34, y: 18, z: 0}
+  instantiatePos: {x: 18.46, y: 0, z: 19.35}
+  locationPos: {x: 32, y: 24, z: 0}
+  address: 99 King Street West
+  carType: Honda Accord Hybrid Drive
+  mpg: 47
+  path:
+  - {x: 65, y: 30}
+  - {x: 65, y: 29}
+  - {x: 64, y: 29}
+  - {x: 63, y: 29}
+  - {x: 62, y: 29}
+  - {x: 61, y: 29}
+  - {x: 60, y: 29}
+  - {x: 59, y: 29}
+  - {x: 58, y: 29}
+  - {x: 57, y: 29}
+  - {x: 56, y: 29}
+  - {x: 55, y: 29}
+  - {x: 54, y: 29}
+  - {x: 53, y: 29}
+  - {x: 53, y: 28}
+  - {x: 53, y: 27}
+  - {x: 53, y: 26}
+  - {x: 53, y: 25}
+  - {x: 53, y: 24}
+  - {x: 53, y: 23}
+  - {x: 53, y: 22}
+  - {x: 53, y: 21}
+  - {x: 53, y: 20}
+  - {x: 53, y: 19}
+  - {x: 53, y: 18}
+  - {x: 53, y: 17}
+  - {x: 53, y: 16}
+  - {x: 53, y: 15}
+  - {x: 53, y: 14}
+  - {x: 54, y: 14}
+  - {x: 55, y: 14}
+  - {x: 56, y: 14}
+  - {x: 57, y: 14}
+  - {x: 58, y: 14}
+  - {x: 59, y: 14}
+  - {x: 60, y: 14}
+  - {x: 61, y: 14}
+  - {x: 62, y: 14}
+  - {x: 63, y: 14}
+  - {x: 64, y: 14}
+  - {x: 65, y: 14}
+  - {x: 66, y: 14}
+  - {x: 67, y: 14}
+  - {x: 68, y: 14}
+  - {x: 68, y: 13}
+  - {x: 68, y: 12}
+  - {x: 68, y: 11}
+  - {x: 68, y: 10}
+  - {x: 68, y: 9}
+  - {x: 68, y: 8}
+  distance: 57
+  pathCalculated: 0
+  carpool: 0
+  showPath: 0
+  hasTalked: 0
+  Headshot: {fileID: 21300000, guid: 3adab0b9b8fd48a489fd0d59499a06a5, type: 3}
+  HasBusPass: 0
+  carpoolGroupCircle: {fileID: 0}

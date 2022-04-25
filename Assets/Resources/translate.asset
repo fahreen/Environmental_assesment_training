@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd029107fd4f92c48a909a29a1cbae92, type: 3}
+  m_Name: translate
+  m_EditorClassIdentifier: 
+  keys:
+  - amq1
+  - amr1
+  - amr2
+  - amr3
+  - amr4
+  - amr5
+  - amr6
+  - amr7
+  - amr8
+  - amr9
+  - amr10
+  - amq2
+  - amq3
+  - amq4
+  - amq5
+  - amq6
+  - amq7
+  - amq8
+  - okay
+  - cya
+  - brq1
+  - brr1
+  - brr2
+  - brr3
+  - brr4
+  - brr5
+  - brr6
+  - brr7
+  - brr8
+  - brr9
+  - brr10
+  - brq2
+  - brq3
+  - brq4
+  - brq5
+  - brq6
+  - brq7
+  - brq8
+  - omr1
+  - omr2
+  - omr3
+  - omr4
+  - omr5
+  - omr6
+  - omr7
+  - omr8
+  - omr9
+  - omr10
+  - omr11
+  - omq1
+  - omq2
+  - omq3
+  - omq4
+  - omq5
+  - omq6
+  - omq7
+  - omq8
+  - omq9
+  - omq10
+  - shr1
+  - shr2
+  - shr3
+  - shr4
+  - shr5
+  - shr6
+  - shr7
+  - shr8
+  - shr9
+  - shr10
+  - shq1
+  - shq2
+  - shq3
+  - shq4
+  - shq5
+  - shq6
+  - shq7
+  - shq8
+  - shq9
+  - shq10
+  - chr1
+  - chr2
+  - chr3
+  - chr4
+  - chr5
+  - chr6
+  - chr7
+  - chq1
+  - chq2
+  - chq3
+  - chq4
+  - chq5
+  - chq6
+  - chq7
+  - req1
+  - req2
+  - req3
+  - req4
+  - req5
+  - req6
+  - req7
+  - rer1
+  - rer2
+  - rer3
+  - rer4
+  - rer5
+  - rer6
+  - rer7
+  - ...
+  - maq1
+  - maq2
+  - maq3
+  - maq4
+  - maq5
+  - maq6
+  - maq7
+  - maq8
+  - maq9
+  - maq10
+  - maq11
+  - mar1
+  - mar2
+  - mar3
+  - mar4
+  - mar5
+  - mar6
+  - mar7
+  - mar8
+  - mar9
+  langValues:
+  - lang: English
+    values:
+    - Heyo, I'm Amanda! I need to get back to work ASAP!
+    - Can you tell me about how you get to work? I'm here conducting  an enviromental
+      assesment for you company!
+    - How do you feel about the Isreal and Palestine conflict?
+    - The weather today is great, isn't it?
+    - Are you a feminist?
+    - Have you seen the new Attack on Titan episode?
+    - ' It''s crazy how stuff from the first season gets justified right? And the
+      new opening is fire.'
+    - Yeah so the company is trying to cut down on their carbon emissions. Was wondering
+      what kind of car you drive.
+    - Hey that's a pretty good car! Do you live far from work?
+    - Would you like a company bus pass so you can save money for that anime merch? 
+      And are you open to carpooling?
+    - Great, I'll let you know when if I can get that to you!
+    - Sorry too busy for this! Come find me Later!
+    - 'OMG!  This season is INSANE. I have no idea what''s going on. '
+    - Litterally! Was in the middle of jamming out to the original sound track and
+      doing work.  Need anything?
+    - I spend too much money on anime figurines, so I drive a <CAR>  Its not the
+      best car, but it does the job!
+    - Not too far, I live at <ADDRESS>.
+    - I'll take the bus pass! I don't really want to carpool though...
+    - Thanks, I better get back to work! See ya!
+    - Okay...
+    - Cya
+    - One Two, One Two, One Two, One Two.   Gotta keep that keep that heart rate
+      up.Don't stop, won't stop, can't stop...
+    - Hi, can we chat for a bit?
+    - Yo let me in on this!
+    - Okay, I'll come back another time...
+    - Can i join you?
+    - One Two, One Two,One Two,One Two,One Two,One Two....
+    - '*Panting* So, can we talk?'
+    - Hi Brian!  So, What kind of car do you drive to work?
+    - And do you live far from work?
+    - I would say that's a bit far!    Would ye be interested in taking  the bus
+      or carpooling?  It could save you alot of money in gas!
+    - Cool. I'll email you the deets once we figure everything out.
+    - Can we do this later? I'm trying to get my 10,000 steps in before lunch.
+    - Always happy to have a workout buddy!   One Two, One Two,One Two,One Two,One
+      Two,One Two....
+    - hmmmm I'm going to keep working out though...  But Don't worry! I can fully
+      concentrate on this conversation.  I'm Brian by the way!
+    - '*Panting* Ummm... Let me think about that for a bit... I''m driving with <CAR>
+      .  Why what''s up?'
+    - '*Panting* I don''t know, is <ADRESS> considered far'
+    - 'For sure! I''m down for anything! '
+    - Alright,  Thanks.  Gonna get back to my workout now!  One Two, One Two,One
+      Two,One Two,One Two,One Two...
+    - I'm doing fine myself!  Just chillin and on that grind for the hustle.
+    - Can you tell me about how you get to work?
+    - Yo for sure. I got  my money in etherium and Dogecoin.
+    - Isn't crypto a scam?
+    - Crypto? Tell me more...
+    - Wait what? No, I'm here conducting  an enviromental assesment for you company!
+    - Wow I should be investing all my live savings into this!
+    - That kind of sounds like a scam...
+    - Can you tell me about how you get to work? I'm here conducting  an enviromental
+      assesment for the company.
+    - Dawg a hybrid is fire! It's gonna be stopping global warming relative to those
+      gas cars.   I'm down to sponsor you a  bus pass, so you can put more of your
+      money towards your investments.  Are you also down to carpool with your homies
+      to work?
+    - Thanks for your time bro.  And keep hustling.  We gonna make it to the moon
+      one day!
+    - Yo What's up? I'm Omar!  What can I do for you?
+    - Yo man you know whats up. You into crypto bro?
+    - Why do yo need that information? Is this related to my crypto stuff? Everything
+      I've done is LEGAL!
+    - What??? Dude if you're small brained then just say that... I don't have time
+      for this, I'm going back to work!
+    - Nah I don't think I wanna be part of that. Sorry...
+    - "Dude Crypto is the future! Cryptocurrency and Blockchain technology offer
+      a lot of potential with investing. Ethereum, or some other Cryptocurrency is
+      going to be the global standard of payment. It\u2019ll be of greater value
+      than national fiat! NFT\u2019s are transforming the way commerce is transacted,
+      contracts are enforced, investments are held, and value is transferred. It\u2019s
+      money 2.0, a huge, huge, huge deal.....So yeah like i said. Crypto is UNSTROPPABLE.
+      Crypto is the FUTURE!!!! "
+    - Yoo I can tell you're financilaly literate!   What can I do for you?
+    - 'Obviously the dream one day is to drive a Lamborghini, but my current ride
+      is a Honda Accord Hybrid. '
+    - Yo bet.  I'm down for any of those.  My Current address is <ADDRESS> if you
+      need info for the carpooling.
+    - Amen bro.
+    - Hey, do you have time for a quick chat?
+    - No sorry, Sagitarious here!
+    - No sorry, Cancer here!
+    - Omg you're right! How did you know that?
+    - 'Huh? Don''t tell me you beleive in horoscopes?? '
+    - Thanks! Can you tell me about how you get to work?  I'm here conducting  an
+      enviromental assesment for you company!.
+    - Haha...  So what car do you drive?
+    - Could I also get your address? We're trying to figure out a carpool program.
+    - That's great to hear, I'll sign you up and get  back to you.    Also would
+      you be willing to accepts a pre-paid bus pass to travel to work?
+    - Amazing! That's all the information I need from you.  Thanks for your time
+      Shae.
+    - Hi, I'm Shae! How can I help you?
+    - Of course! I'm always down to chat, especially when it's  with an... Scorpio?  
+      Did I guess that right??
+    - oh... You know what, I have alot of work to do... Please don't bother me right
+      now.
+    - A Cancer!  Ofcourse!  I see it now...that would've been my second guess! I
+      can feel that you're a very imaginative and loyal person!
+    - I have a knack for these things! I could sense your energy from a mile away! 
+      You have a very Bold and Passionate presence!
+    - Just like I predicted, you're also a very  direct person!  Water signs tend
+      to do that! I'm a Pisces, so I'm very direct too!
+    - 'Oh there I go running my mouth....  I drive a <CAR>. '
+    - Sure thing! I live at <ADDRESS>.    And a carpool program? I'd love to be part
+      of that!  How can I sign up?  Us water signs love the company of others!
+    - Yeah I can take the bus to work!
+    - No problem sweetie!  I'm always around if you wat to talk horoscopes!
+    - Yes Hello!  I'm here conducting  an enviromental assesment for you company!.
+    - Mam I'm just doing my job.   Would you be able to answer some questions for
+      me today?
+    - '*Show Identification'
+    - If you could tell me where you live and how you get to work, that would be
+      great...
+    - Also would you be willing to either carpool or use a company funded bus pass
+      for transportation?
+    - Well thanks for your time Christine, that's all I needed to know!
+    - Okay Christine, see you around...
+    - Umm.. You don't look familiar...  Are you authorized to be on this Private
+      Property?
+    - I'm sorry but I need to see some identification
+    - You know what? I don't like your tone!  I will be reporting you to security!
+    - I guess that looks legitimate...  I'm Chritine btw...  So what kind of information
+      do you need from me?
+    - Alright, my address is <ADDRESS> and I drive a <CAR>
+    - Alright, I can take the bus but carpooling is NOT an option for me.   I can't
+      be around my co-workers in an enclosed space for that long! They're insufferable
+    - How could they not give me a heads up about you? HR will be hearing about this!
+    - Hi super busy with deadlines! Can't talk!
+    - No way! How did you know?  Have you been?
+    - Well, good luck with that! I gotta get back to work!
+    - That's Amazing! I could talk about machu pichu for days!  My name is Regina
+      btw!  What can I do for you?
+    - Sure thing! I live at <ADDRESS> and drive a <CAR> to work
+    - Yup, can do both! Is that everything?   I really need to get back to work!
+    - Sounds good! Let's talk about our machu pichu trip after this deadline!
+    - Okay, I'll come back another time...
+    - 'What''s that picture behind you? Is that you in Machupichu? '
+    - Not yet, but it's definetly on the bucketlist!
+    - Yes I have! I love to travel!
+    - Can you tell me about how you get to work and where you live?  I'm here conducting 
+      an enviromental assesment for your company!
+    - Also would you be willing to either carpool or use a company funded bus pass
+      for transportation?
+    - Thanks so much for your time Regina. I'll let you get back to work then!
+    - ...
+    - Hi I'm Malcolm! Are you a new employee here?
+    - Why does our company need something like that?
+    - Why does our company need to decrease their carbon footprint?
+    - Fair enough.  What kind of information do you need for me?
+    - Did you know global warming is a hoax?
+    - I guess...  I drive a <CAR> to work from   <ADDRESS> ....
+    - I watched a documentary on it!
+    - Yeah.... I can do both....
+    - Did you also know they faked the moon landing? And 9/11??
+    - Okay man. But don't forget... They're always watching...
+    - Well I gotta get back to work.  Let me know if you need anything else from
+      me!
+    - No, I'm just here to conduct an enviromental assesment for your company!  Do
+      you have time for a quick chat?
+    - Well my job is to use the data to make reccomendations, so the company can
+      decrease  their carbon foot print.
+    - Just for funsies
+    - Well, global warming is prominent issue.  By decreasing our carbon footprint,
+      we can contribute to a better tommorow!
+    - Just for funsies
+    - Can you tell me about how you get to work and where you live?
+    - Also would you be willing to either carpool or use a company funded bus pass
+      for transportation?
+    - Umm... Okay thanks Malcolm! That's all I need from you... See ya!
+    - ummm....
+  lastEditorLang: 0

@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91d9363d653555040a1788929642c683, type: 3}
+  m_Name: Malcolm
+  m_EditorClassIdentifier: 
+  employeeName: Malcom West
+  startPos: {x: 4, y: 10, z: 0}
+  instantiatePos: {x: 18.42, y: 0, z: 25.5}
+  locationPos: {x: 5, y: 14, z: 0}
+  address: 92 Bertrand Avenue
+  carType: Honda Accord Hybrid Drive
+  mpg: 49
+  path:
+  - {x: 65, y: 30}
+  - {x: 65, y: 29}
+  - {x: 64, y: 29}
+  - {x: 63, y: 29}
+  - {x: 62, y: 29}
+  - {x: 61, y: 29}
+  - {x: 60, y: 29}
+  - {x: 59, y: 29}
+  - {x: 58, y: 29}
+  - {x: 57, y: 29}
+  - {x: 56, y: 29}
+  - {x: 55, y: 29}
+  - {x: 54, y: 29}
+  - {x: 53, y: 29}
+  - {x: 52, y: 29}
+  - {x: 51, y: 29}
+  - {x: 50, y: 29}
+  - {x: 49, y: 29}
+  - {x: 48, y: 29}
+  - {x: 47, y: 29}
+  - {x: 46, y: 29}
+  - {x: 45, y: 29}
+  - {x: 44, y: 29}
+  - {x: 43, y: 29}
+  - {x: 42, y: 29}
+  - {x: 41, y: 29}
+  - {x: 40, y: 29}
+  - {x: 39, y: 29}
+  - {x: 38, y: 29}
+  - {x: 37, y: 29}
+  - {x: 36, y: 29}
+  - {x: 35, y: 29}
+  - {x: 34, y: 29}
+  - {x: 33, y: 29}
+  - {x: 32, y: 29}
+  - {x: 31, y: 29}
+  - {x: 31, y: 28}
+  - {x: 31, y: 27}
+  - {x: 31, y: 26}
+  - {x: 31, y: 25}
+  - {x: 31, y: 24}
+  - {x: 31, y: 23}
+  - {x: 31, y: 22}
+  - {x: 31, y: 21}
+  - {x: 31, y: 20}
+  - {x: 31, y: 19}
+  - {x: 31, y: 18}
+  - {x: 31, y: 17}
+  - {x: 31, y: 16}
+  - {x: 32, y: 16}
+  - {x: 33, y: 16}
+  - {x: 34, y: 16}
+  - {x: 35, y: 16}
+  - {x: 36, y: 16}
+  - {x: 37, y: 16}
+  - {x: 38, y: 16}
+  distance: 62
+  distanceTemp: 100
+  pathCalculated: 1
+  carpool: 0
+  showPath: 0
+  hasTalked: 1
+  Headshot: {fileID: 21300000, guid: aff262683fa6a7745a692702006d1c4a, type: 3}
+  HasBusPass: 0
+  carpoolGroupCircle: {fileID: 0}

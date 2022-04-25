@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91d9363d653555040a1788929642c683, type: 3}
+  m_Name: Omar
+  m_EditorClassIdentifier: 
+  employeeName: Omar Adil
+  startPos: {x: -21, y: 9, z: 0}
+  instantiatePos: {x: 22.24, y: 0, z: 14.52}
+  locationPos: {x: -27, y: 13, z: 0}
+  address: 34 Dawes Rd.
+  carType: Honda Accord Hybrid Drive
+  mpg: 47
+  path:
+  - {x: 65, y: 30}
+  - {x: 65, y: 29}
+  - {x: 64, y: 29}
+  - {x: 63, y: 29}
+  - {x: 62, y: 29}
+  - {x: 61, y: 29}
+  - {x: 60, y: 29}
+  - {x: 59, y: 29}
+  - {x: 58, y: 29}
+  - {x: 57, y: 29}
+  - {x: 56, y: 29}
+  - {x: 55, y: 29}
+  - {x: 54, y: 29}
+  - {x: 53, y: 29}
+  - {x: 52, y: 29}
+  - {x: 51, y: 29}
+  - {x: 50, y: 29}
+  - {x: 49, y: 29}
+  - {x: 48, y: 29}
+  - {x: 47, y: 29}
+  - {x: 46, y: 29}
+  - {x: 45, y: 29}
+  - {x: 44, y: 29}
+  - {x: 43, y: 29}
+  - {x: 42, y: 29}
+  - {x: 41, y: 29}
+  - {x: 40, y: 29}
+  - {x: 39, y: 29}
+  - {x: 38, y: 29}
+  - {x: 37, y: 29}
+  - {x: 36, y: 29}
+  - {x: 35, y: 29}
+  - {x: 34, y: 29}
+  - {x: 33, y: 29}
+  - {x: 32, y: 29}
+  - {x: 31, y: 29}
+  - {x: 31, y: 28}
+  - {x: 31, y: 27}
+  - {x: 31, y: 26}
+  - {x: 31, y: 25}
+  - {x: 31, y: 24}
+  - {x: 31, y: 23}
+  - {x: 31, y: 22}
+  - {x: 31, y: 21}
+  - {x: 31, y: 20}
+  - {x: 31, y: 19}
+  - {x: 31, y: 18}
+  - {x: 31, y: 17}
+  - {x: 30, y: 17}
+  - {x: 29, y: 17}
+  - {x: 28, y: 17}
+  - {x: 27, y: 17}
+  - {x: 26, y: 17}
+  - {x: 25, y: 17}
+  - {x: 24, y: 17}
+  - {x: 23, y: 17}
+  - {x: 22, y: 17}
+  - {x: 21, y: 17}
+  - {x: 20, y: 17}
+  - {x: 19, y: 17}
+  - {x: 18, y: 17}
+  - {x: 17, y: 17}
+  - {x: 16, y: 17}
+  - {x: 15, y: 17}
+  - {x: 14, y: 17}
+  - {x: 13, y: 17}
+  distance: 57
+  pathCalculated: 0
+  carpool: 0
+  showPath: 0
+  hasTalked: 0
+  Headshot: {fileID: 21300000, guid: 8ceb9a7de8d2cab408dcb1f73aa56c6a, type: 3}
+  HasBusPass: 0
+  carpoolGroupCircle: {fileID: 0}
