@@ -5,6 +5,9 @@ using UnityEngine.EventSystems;
 using UnityEngine.Tilemaps;
 using UnityEngine.UI;
 
+//Fahreen Bushra: control carpool group positioning on the map.  Enable user to assign employees a carpool group.
+
+
 public class DragNDropCarpool : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
 {
 
