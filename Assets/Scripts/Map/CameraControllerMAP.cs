@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
+//Script not used at this time
+
 public class CameraControllerMAP : MonoBehaviour
 {
 
