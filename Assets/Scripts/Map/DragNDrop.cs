@@ -5,6 +5,8 @@ using UnityEngine.EventSystems;
 using UnityEngine.Tilemaps;
 using UnityEngine.UI;
 
+//Fahreen Bushra: control bus pass positioning on the map.  Enable user to assign employees a bus pass.
+
 public class DragNDrop : MonoBehaviour, IPointerDownHandler, IBeginDragHandler, IEndDragHandler, IDragHandler
 {
 
