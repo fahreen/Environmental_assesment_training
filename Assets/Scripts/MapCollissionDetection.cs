@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//Fahreen Bushra: Detects when player has collided with map. Changes camera from 3D office scene to 2D map scene
+
 public class MapCollissionDetection : MonoBehaviour
 {
     // Start is called before the first frame update
